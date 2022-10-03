@@ -1,5 +1,11 @@
 # React-shop-cloudfront
 
+## Hometask
+
+### S3 bucket
+
+- S3 bucket published at http://artabr-my-store-app.s3-website.eu-central-1.amazonaws.com/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
