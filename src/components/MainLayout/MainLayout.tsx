@@ -37,7 +37,7 @@ const MainLayout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
           color="textSecondary"
           component="p"
         >
-          Thank you for your purchase!
+          Many thanks for your purchase! Invalidation tested!
         </Typography>
         <Copyright />
       </Box>
