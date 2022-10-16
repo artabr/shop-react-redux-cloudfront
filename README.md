@@ -1,5 +1,17 @@
 # React-shop-cloudfront
 
+## Hometask
+
+### S3 bucket
+
+- S3 bucket published at http://artabr-my-store-app.s3-website.eu-central-1.amazonaws.com/
+
+After enabling Cloudfront S3 bucket is not publicly accessible anymore. Use Cloudfront url to access the bucket's content.
+
+### Cloudfront
+
+- The app is accesible via Cloudfront at: https://d2eliflf154l1f.cloudfront.net/
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
